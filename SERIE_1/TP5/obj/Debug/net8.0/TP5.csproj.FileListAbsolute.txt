@@ -1,0 +1,15 @@
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\bin\Debug\net8.0\TP5.exe
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\bin\Debug\net8.0\TP5.deps.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\bin\Debug\net8.0\TP5.runtimeconfig.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\bin\Debug\net8.0\TP5.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\bin\Debug\net8.0\TP5.pdb
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.AssemblyInfoInputs.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.AssemblyInfo.cs
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.csproj.CoreCompileInputs.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.sourcelink.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\refint\TP5.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.pdb
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_1\TP5\obj\Debug\net8.0\ref\TP5.dll

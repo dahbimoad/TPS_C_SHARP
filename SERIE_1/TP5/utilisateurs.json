@@ -1,0 +1,12 @@
+[
+    {
+        "login": "admin",
+        "motDePasse": "admin",
+        "estAdmin": true
+    },
+    {
+        "login": "client",
+        "motDePasse": "client",
+        "estAdmin": false
+    }
+]

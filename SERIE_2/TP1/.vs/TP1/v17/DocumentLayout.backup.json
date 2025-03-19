@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp1\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|solutionrelative:directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp1\\gestionemployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|solutionrelative:gestionemployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0C7C00-9224-4679-87A3-43A5B7DE4DDD}|TP1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Directeur.cs",
+              "RelativeDocumentMoniker": "Directeur.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Directeur.cs",
+              "RelativeToolTip": "Directeur.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:48:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionEmployes.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\GestionEmployes.cs",
+              "RelativeDocumentMoniker": "GestionEmployes.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\GestionEmployes.cs",
+              "RelativeToolTip": "GestionEmployes.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:48:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:47:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:47:26.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

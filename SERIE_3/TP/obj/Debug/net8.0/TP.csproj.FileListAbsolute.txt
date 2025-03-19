@@ -1,0 +1,15 @@
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\bin\Debug\net8.0\TP.exe
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\bin\Debug\net8.0\TP.deps.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\bin\Debug\net8.0\TP.runtimeconfig.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\bin\Debug\net8.0\TP.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\bin\Debug\net8.0\TP.pdb
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.AssemblyInfoInputs.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.AssemblyInfo.cs
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.csproj.CoreCompileInputs.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.sourcelink.json
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\refint\TP.dll
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.pdb
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\TP.genruntimeconfig.cache
+C:\Users\mouad\Desktop\TPS_C_SHARP\SERIE_3\TP\obj\Debug\net8.0\ref\TP.dll

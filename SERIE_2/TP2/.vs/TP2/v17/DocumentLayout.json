@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|solutionrelative:document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp2\\biblio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|solutionrelative:biblio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp2\\dictionnaire .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|solutionrelative:dictionnaire .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|c:\\users\\mouad\\desktop\\tps_c_sharp\\serie_2\\tp2\\livre .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27B00A8-77ED-432F-A903-98EA03D68F38}|TP2.csproj|solutionrelative:livre .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblio.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Biblio.cs",
+              "RelativeDocumentMoniker": "Biblio.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Biblio.cs",
+              "RelativeToolTip": "Biblio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:57:50.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionnaire .cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Dictionnaire .cs",
+              "RelativeDocumentMoniker": "Dictionnaire .cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Dictionnaire .cs",
+              "RelativeToolTip": "Dictionnaire .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:57:26.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livre .cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Livre .cs",
+              "RelativeDocumentMoniker": "Livre .cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Livre .cs",
+              "RelativeToolTip": "Livre .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:57:07.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Document.cs",
+              "RelativeDocumentMoniker": "Document.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Document.cs",
+              "RelativeToolTip": "Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:56:32.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mouad\\Desktop\\TPS_C_SHARP\\SERIE_2\\TP2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:56:24.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
